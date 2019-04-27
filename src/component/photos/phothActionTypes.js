@@ -1,0 +1,9 @@
+export const ZOOM_PHOTO = 'ZOOM_PHOTO'
+export const SET_LIKE = 'SET_LIKE'
+export const RETURN = 'RETURN'
+export const SHOW_FAV = 'SHOW_FAV'
+export const CHANGE_VIEW = 'CHANGE_VIEW'
+export const SEARCH = 'SEARCH'
+export const FETCHING_PHOTOS = 'FETCHING_PHOTOS';
+export const FETCH_PHOTOS_SUCCESS = 'FETCH_PHOTOS_SUCCESS';
+export const FETCH_PHOTOS_FAILURE = 'FETCH_PHOTOS_FAILURE';
